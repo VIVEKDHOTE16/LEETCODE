@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
