@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Trie
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
