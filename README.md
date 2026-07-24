@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
