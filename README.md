@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0090-subsets-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
