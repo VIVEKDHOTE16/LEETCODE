@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
