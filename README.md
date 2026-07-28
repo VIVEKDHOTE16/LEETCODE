@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
