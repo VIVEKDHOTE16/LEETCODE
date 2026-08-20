@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
