@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
@@ -231,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
