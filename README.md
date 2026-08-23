@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
