@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
