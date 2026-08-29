@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## String Matching
 |  |
 | ------- |
@@ -280,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
