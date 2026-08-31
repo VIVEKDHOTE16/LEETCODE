@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -296,4 +298,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
