@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
