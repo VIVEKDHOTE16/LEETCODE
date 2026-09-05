@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0860-lemonade-change) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
