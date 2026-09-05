@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -317,4 +318,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
