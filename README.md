@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0051-n-queens) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
