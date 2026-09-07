@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -339,4 +342,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
