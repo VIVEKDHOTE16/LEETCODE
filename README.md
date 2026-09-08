@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2498-frog-jump-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Prefix Sum
 |  |
 | ------- |
