@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0135-candy) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
