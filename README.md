@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2498-frog-jump-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
