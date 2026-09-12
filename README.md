@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Quicksort
 |  |
 | ------- |
