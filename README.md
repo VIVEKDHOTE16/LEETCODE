@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Trie
