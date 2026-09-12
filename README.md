@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## String Matching
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
