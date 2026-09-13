@@ -9,13 +9,13 @@ public:
         int mini=INT_MAX;
         while(r<n){
             sum+=nums[r];
-            r++;
             while(sum>=target){
-                len=r-l;
+                len=r-l+1;
                 mini=min(len,mini); 
                 sum-=nums[l];
                 l++;
             }
+            r++;
         }
         if(mini==INT_MAX){
             return 0;
