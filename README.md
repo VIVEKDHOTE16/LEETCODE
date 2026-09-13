@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3731-find-missing-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3731-find-missing-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## String Matching
 |  |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [3842-toggle-light-bulbs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->
