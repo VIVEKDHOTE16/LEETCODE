@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-frog-jump-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3731-find-missing-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3842-toggle-light-bulbs) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
