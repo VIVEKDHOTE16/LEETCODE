@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3731-find-missing-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [3861-minimum-capacity-box](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
