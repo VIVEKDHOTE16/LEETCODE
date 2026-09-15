@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 ## Matrix
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0938-range-sum-of-bst) |
 ## Hash Function
 |  |
