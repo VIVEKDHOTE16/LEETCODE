@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
