@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1652-defuse-the-bomb](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
