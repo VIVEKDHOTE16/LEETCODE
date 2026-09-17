@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0494-target-sum) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -582,5 +586,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
