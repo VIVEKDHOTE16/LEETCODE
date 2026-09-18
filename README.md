@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0100-same-tree) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0100-same-tree) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
