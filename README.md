@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [2833-furthest-point-from-origin](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
