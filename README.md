@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0135-candy) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0206-reverse-linked-list) |
