@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0503-next-greater-element-ii) |
