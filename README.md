@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -620,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
