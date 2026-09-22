@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
